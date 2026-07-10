@@ -1,6 +1,8 @@
 # typography_pc
 
-![img.png](img.png)
+<p align="center">
+  <img src="img.png" width="300" />
+  <img src="img_2.png width="300" />
+</p>
 
 
-![img_2.png](img_2.png)
